@@ -1,0 +1,1 @@
+{'keywords': {'db_cmd':{'keys':["mk","rm",],'cmd_type':0},'db_tbl_cmd': {'keys':["create table","drop table","alter table"]}},'cmds' :["mk","rm","show dbs","usedb"]}

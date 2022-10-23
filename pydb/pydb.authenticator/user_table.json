@@ -1,0 +1,11 @@
+{
+    "root":{
+        "username": "root",
+        "name":"admin",
+        "password":""
+
+    }, 
+    "shared_users":{
+        "1" : "1"
+    }
+}

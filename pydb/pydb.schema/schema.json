@@ -1,0 +1,19 @@
+{
+    "dbms":{
+        "version": "1.00.01", 
+        "name": "pydb-1.00.01",
+        "description": "pydb database management system internals",
+        "author": "Prajjawal Mishra", 
+        "author_email": "",
+        "license": "MIT",
+        "url_author": "https://mishra-prajjawal.github.io",
+        "url_project": "https://mishra-prajjawal.github.io/projects/pydb/"
+    },
+    "$schema": "http://json-schema.org/draft-04/schema#",
+    "type": "object",
+    "title": "pydb database management system internals",
+    "description": "pydb database management system internals",
+    "required": [
+        "dbms"
+    ]
+}
