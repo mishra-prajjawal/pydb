@@ -39,35 +39,43 @@ $ pip install pydbms --upgrade
 $ python
 ```
 ```python 
->>>import pydb 
->>>db = pydb.dbms()
->>>db.exe("mk mydb;")
+import pydb 
+db = pydb.dbms()
+db.exe("mk mydb;")
 ```
-`> Database Created`
+```python
+>>> Database Created
+```
 
 
-`src => pydb/mydb/`
 
 
 # docs - basic
+<div align="center">
+  <h2>Keyword and there uses</h2>
+</div>
+
 Keyword | function | type of command
 | :---:   | :---: | :---:|
 mk | (Derived From - Make) Used to make a database | DDL
 rm | (Derived From - Remove) Used to remove a database |DDL
-crable | (Derived From - Create Table) | DDL
-dable | (Derived From - Drop Table) | DDL
+crable | (Derived From - Create Table) Used to create a table | DDL
+dable | (Derived From - Drop Table) Used to remove a table | DDL
+use | Select and lock a database to perform task in it | DDL
+show dbs | (Derived From - Show Databases) Used to give/show list of databases | DDL
 able | (Derived From - Alter Table)| DML
 
 
 
-## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
 
 ## Authors
 
 - [@mishra-prajjawal](https://www.github.com/mishra-prajjawal)
 
+## License
+
+[MIT](https://opensource.org/licenses/MIT)
 
 
 
