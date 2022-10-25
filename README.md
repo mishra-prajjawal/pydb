@@ -40,8 +40,8 @@ $ python
 ```
 ```python 
 import pydb 
-db = pydb.dbms()
-db.exe("mk mydb;")
+pydb = pydb.dbms()
+pydb.exe("mk mydb;")
 ```
 ```python
 >>> Database Created
