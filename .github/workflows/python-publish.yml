@@ -36,4 +36,4 @@ jobs:
       uses: pypa/gh-action-pypi-publish@27b31702a0e7fc50959f5ad993c78deac1bdfc29
       with:
         user: Mishra.Prajjawal
-        password: ${{ pypi-AgEIcHlwaS5vcmcCJDEzNDJiYjgyLTQ1YmQtNDQ0NC1hMzRiLTFlMGY2ODM1NWNkNQACKlszLCJmNzUyZjc1ZC0wYzQzLTQzNGEtYjg0Ni1hOTAxNDc3NGVhMWEiXQAABiCzC7VqtQyywAakr3BlLcU-uVz6_nqSBx5ygw9r1XQagw }}
+        password: ${{ secrets.pypi-AgEIcHlwaS5vcmcCJDg2NTYyMGFlLTcwYTgtNGZhNy05YmQwLThhYmE1OWFlOTFlMwACKlszLCJmNzUyZjc1ZC0wYzQzLTQzNGEtYjg0Ni1hOTAxNDc3NGVhMWEiXQAABiAP3euawDSQFfh3DNM_RDjDLS_6k3t8MEIwd-KcdAZM6w }}
