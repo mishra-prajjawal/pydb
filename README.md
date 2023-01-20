@@ -3,8 +3,7 @@
 </div>
 
 An open source folder-document(Hierarchy) model JSON(Javascript Object Notation) based Nosql Database Management System(DBMS) for fast data gathering,saving and reliable data redundancy without data loss and data transformation. 
-
-pydb is developed as an hobby project  by Prajjawal Mishra  and was made to tackle the complexity of other dbms for students but soon realised that it can be used in vivid domains.
+  
 
 pydb is currently available in python only.
 #### python 3.6 or above [Runs like hell]
